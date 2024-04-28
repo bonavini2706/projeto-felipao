@@ -1,2 +1,3 @@
-console.log ("seja bem vindo");
-console.log ("bruno");
+let name = "bruno"
+console.log ("seja bem vindo" + name);
+
